@@ -12,7 +12,7 @@
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://darkera007.github.io/senis_ruko_51
+Site published at: https://deangelo777.github.io/senis_ruko_51
 
 Design: [Senis_ruko](https://imgur.com/a/pIha26D)
 
